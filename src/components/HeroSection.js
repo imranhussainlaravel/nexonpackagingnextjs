@@ -36,7 +36,7 @@ export default function HeroSection() {
       </div>
       <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
         <Image
-          src="https://images.nexonpackaging.com/frontslider.webp"
+          src="https://images.nexonpackaging.com/frontslider1.webp"
           alt="mockup"
           width={500}
           height={500}
