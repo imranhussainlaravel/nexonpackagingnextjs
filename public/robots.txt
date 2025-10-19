@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Allow: /category/
+Allow: /product/
+
+# Host
+# Host: https://nexonpackaging.com
+
+# Sitemaps
+Sitemap: https://nexonpackaging.com/sitemap.xml
